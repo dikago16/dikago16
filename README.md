@@ -1,1 +1,5 @@
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dikago16&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Statistik Keseluruhan -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikago16&show_icons=true&theme=radical)
+
+<!-- Bahasa Pemrograman Teratas -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikago16&layout=compact&theme=radical)
